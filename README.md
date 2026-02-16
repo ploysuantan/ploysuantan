@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![My resume](https://i.postimg.cc/TPfXLYVc/Resume-20260215-222947-0001.png)
 ![My resume](https://i.postimg.cc/1zQJy8Gt/Messenger-creation-5F72A405-950F-498A-B611-10FD87807B09.jpg)
+![My resume](https://i.postimg.cc/SxC86mMV/1771210511833.jpg)
 <!--
 **ploysuantan/ploysuantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
